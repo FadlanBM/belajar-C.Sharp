@@ -1,0 +1,11 @@
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\Belajar_crud_menampilkan_data\Belajar_crud_menampilkan_data\bin\Debug\Belajar_crud_menampilkan_data.exe.config
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\Belajar_crud_menampilkan_data\Belajar_crud_menampilkan_data\bin\Debug\Belajar_crud_menampilkan_data.exe
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\Belajar_crud_menampilkan_data\Belajar_crud_menampilkan_data\bin\Debug\Belajar_crud_menampilkan_data.pdb
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\Belajar_crud_menampilkan_data\Belajar_crud_menampilkan_data\obj\Debug\Belajar_crud_menampilkan_data.csproj.AssemblyReference.cache
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\Belajar_crud_menampilkan_data\Belajar_crud_menampilkan_data\obj\Debug\Belajar_crud_menampilkan_data.csproj.SuggestedBindingRedirects.cache
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\Belajar_crud_menampilkan_data\Belajar_crud_menampilkan_data\obj\Debug\Belajar_crud_menampilkan_data.Form1.resources
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\Belajar_crud_menampilkan_data\Belajar_crud_menampilkan_data\obj\Debug\Belajar_crud_menampilkan_data.Properties.Resources.resources
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\Belajar_crud_menampilkan_data\Belajar_crud_menampilkan_data\obj\Debug\Belajar_crud_menampilkan_data.csproj.GenerateResource.cache
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\Belajar_crud_menampilkan_data\Belajar_crud_menampilkan_data\obj\Debug\Belajar_crud_menampilkan_data.csproj.CoreCompileInputs.cache
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\Belajar_crud_menampilkan_data\Belajar_crud_menampilkan_data\obj\Debug\Belajar_crud_menampilkan_data.exe
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\Belajar_crud_menampilkan_data\Belajar_crud_menampilkan_data\obj\Debug\Belajar_crud_menampilkan_data.pdb

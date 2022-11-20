@@ -11,9 +11,9 @@ namespace Belajar_crud_menampilkan_data
     {
         public SqlConnection Getconn() {
 
-            SqlConnection Conn = new SqlConnection();
-            Conn.ConnectionString = "Data source = WIN-4T7LHOS9DNI; initial catalog=dbsiswa; integreted security=true";
-            return Conn;
+            SqlConnection conn = new SqlConnection();
+            conn.ConnectionString = "Data source = WIN-4T7LHOS9DNI; initial catalog=dbsiswa; integrated security=true";
+            return conn;
         }
     }
 }

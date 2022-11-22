@@ -1,0 +1,11 @@
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\belajarEdit_update_data\bin\Debug\belajarEdit_update_data.exe.config
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\belajarEdit_update_data\bin\Debug\belajarEdit_update_data.exe
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\belajarEdit_update_data\bin\Debug\belajarEdit_update_data.pdb
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\belajarEdit_update_data\obj\Debug\belajarEdit_update_data.csproj.AssemblyReference.cache
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\belajarEdit_update_data\obj\Debug\belajarEdit_update_data.csproj.SuggestedBindingRedirects.cache
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\belajarEdit_update_data\obj\Debug\belajarEdit_update_data.Form1.resources
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\belajarEdit_update_data\obj\Debug\belajarEdit_update_data.Properties.Resources.resources
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\belajarEdit_update_data\obj\Debug\belajarEdit_update_data.csproj.GenerateResource.cache
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\belajarEdit_update_data\obj\Debug\belajarEdit_update_data.csproj.CoreCompileInputs.cache
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\belajarEdit_update_data\obj\Debug\belajarEdit_update_data.exe
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\belajarEdit_update_data\obj\Debug\belajarEdit_update_data.pdb

@@ -1,0 +1,11 @@
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\belajar insert data\belajar insert data\bin\Debug\belajar insert data.exe.config
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\belajar insert data\belajar insert data\bin\Debug\belajar insert data.exe
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\belajar insert data\belajar insert data\bin\Debug\belajar insert data.pdb
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\belajar insert data\belajar insert data\obj\Debug\belajar insert data.csproj.AssemblyReference.cache
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\belajar insert data\belajar insert data\obj\Debug\belajar insert data.csproj.SuggestedBindingRedirects.cache
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\belajar insert data\belajar insert data\obj\Debug\belajar_insert_data.Form1.resources
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\belajar insert data\belajar insert data\obj\Debug\belajar_insert_data.Properties.Resources.resources
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\belajar insert data\belajar insert data\obj\Debug\belajar insert data.csproj.GenerateResource.cache
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\belajar insert data\belajar insert data\obj\Debug\belajar insert data.csproj.CoreCompileInputs.cache
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\belajar insert data\belajar insert data\obj\Debug\belajar insert data.exe
+D:\code pemrograman\projectc#\belajar-C.Sharp.git\belajar insert data\belajar insert data\obj\Debug\belajar insert data.pdb

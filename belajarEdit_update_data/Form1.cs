@@ -92,5 +92,50 @@ namespace belajarEdit_update_data
         {
 
         }
+
+        private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            try
+            {
+                DataGridViewRow row = this.dataGridView1.Rows[e.RowIndex];
+                textBox1.Text = row.Cells["id_siswa"].Value.ToString();
+                textBox2.Text = row.Cells["nis"].Value.ToString();
+                textBox3.Text = row.Cells["no_absen"].Value.ToString();
+                textBox4.Text = row.Cells["nama"].Value.ToString();
+                textBox5.Text = row.Cells["kelas"].Value.ToString();
+            }
+            catch(Exception x)
+            {
+                MessageBox.Show(x.ToString());
+            }
+
+            
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if (textBox1.Text.Trim() == "" || textBox2.Text.Trim() == "" || textBox3.Text.Trim() == "" || textBox4.Text.Trim() == "" || textBox5.Text.Trim() == "")
+            {
+                MessageBox.Show("Data Belum lengkap");
+            }
+            else
+            {
+                SqlConnection con = konn.getconn();
+                try
+                {
+                    cmd = new SqlCommand("Update tbsiswa Set id_siswa='" + textBox1.Text + "',nis='" + textBox2.Text + "',no_absen='" + textBox3.Text + "',nama='" + textBox4.Text + "',kelas='" + textBox5.Text + "' where id_siswa='" + textBox1 + "'", con);
+                    con.Open();
+                    cmd.ExecuteNonQuery();
+                    MessageBox.Show("Update data berhasi");
+                    tampildata();
+                    cleardata();
+                }
+                catch (Exception x)
+                {
+                    MessageBox.Show(x.ToString());
+
+                }
+            }
+        }
     }
 }
